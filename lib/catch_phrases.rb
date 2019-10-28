@@ -15,7 +15,7 @@ end
 
 $video_game = "Mario Bros"
 
-def any_phrase($video_game)
+def any_phrase(video_game)
   catch_phrase = "I think I\'m inside of #{video_game}!"
   puts catch_phrase
 end
